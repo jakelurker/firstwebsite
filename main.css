@@ -1,0 +1,23 @@
+body {
+    background: rgb(236, 193, 193);
+}
+p {
+    background: rgb(400, 193, 393);
+    padding: 4px
+}
+.p {
+    color: rgb(0, 148, 104)
+}
+h1 {
+    padding: 60px;
+    text-align: center;
+    background-image: url("header.jpeg");
+    color: rgb(223, 93, 255);
+    font-size: 30px;
+    text-shadow: rgb(2, 2, 2);
+    font-family: sans-serif;
+  }
+button {
+    background:rgb(211, 122, 21)
+
+}
